@@ -1,0 +1,111 @@
+.fs-15 {
+	font-size: 15px;
+
+}
+
+.fs-20 {
+	font-size: 20px;
+}
+
+.page-section-bg {
+	background-color: #fff;
+}
+
+.mb-100 {
+	padding-bottom: 100px;
+}
+
+.h-div {
+	height: 264px;
+}
+
+.custom-h5 {
+	font-size: 17px;
+}
+
+.c-white {
+	color: #fff;
+}
+
+.c-new {
+	color: #333 !important;
+}
+
+.mt-100 {
+	margin-top: 70px;
+}
+
+.mb-70 {
+	padding-bottom: 100px;
+}
+
+.media-holder {
+    background-position: bottom;
+}
+
+.btn-more {
+ 	color: #0d2f5d;
+ 	font-weight: bold;
+ 	cursor: pointer;
+ 	display: inline-block;
+ 	margin-bottom: 10px;
+}
+#header.fixed-header .main-navigation > ul > li > a, #header.with-bg-img .main-navigation > ul > li > a {
+    color: #0d2f5d;
+    font-weight: bold;
+}
+
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
+
+.join-form input:only-child {
+    border-left: none;
+    width: 310px;
+}
+
+/*Media quaries*/
+
+@media(min-width: 1024px) and (max-width: 1440px) {
+	
+
+	.media-inner {
+    position: absolute;
+    top: 50%;
+    left: 150px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.media-inner span {
+    font-size: 50px;
+    line-height: 82px;
+    font-weight: 900;
+}
+
+
+}
+
+@media(max-width: 1024px) {
+	.media-inner span {
+    font-size: 50px;
+    line-height: 82px;
+    font-weight: 900;
+}
+
+.media-inner {
+    position: absolute;
+    top: 50%;
+    left: 80px;
+    
+}
+
+}
