@@ -67,6 +67,12 @@
     width: 310px;
 }
 
+.col-cus li a {
+
+color: #fff !important;
+
+}
+
 /*Media quaries*/
 
 @media(min-width: 1024px) and (max-width: 1440px) {
