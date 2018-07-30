@@ -95,9 +95,21 @@
 .footer .main-footer {
     padding: 70px 0;
     color: #d2d2d2;
-    background: url(../images/footer-img.jpg) center no-repeat;
+    background: url(../images/footer-img2.jpg) center no-repeat;
     background-size: cover;
+    position: relative;
+ }
+
+ .info-links > li > a {
+    color: #fff;
+    
 }
+
+.foot-styl {
+    color: #fff;
+}
+
+
 /*.col-cus li {
     font-size: 15px;
 }
