@@ -117,4 +117,13 @@ color: #fff !important;
     
 }
 
+
+}
+
+@media(min-width: 1024px) {
+
+    .pb-60px {
+    padding-bottom: 65px;
+ }
+
 }
