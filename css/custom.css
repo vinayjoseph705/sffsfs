@@ -91,6 +91,13 @@
     padding: 0px 16px;
     font-size: 15px;
 }
+
+.footer .main-footer {
+    padding: 70px 0;
+    color: #d2d2d2;
+    background: url(../images/footer-img.jpg) center no-repeat;
+    background-size: cover;
+}
 /*.col-cus li {
     font-size: 15px;
 }
