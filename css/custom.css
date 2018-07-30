@@ -67,6 +67,24 @@
     width: 310px;
 }
 
+.text-right {
+    text-align: right;
+    color: #150606;
+    font-weight: 600;
+}
+
+
+
+.pr-30px {
+    padding-right: 30px;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+
+.fa-contact {
+    vertical-align: middle;
+}
+
 /*.col-cus li {
     font-size: 15px;
 }
@@ -119,11 +137,11 @@ color: #fff !important;
 
 
 }
-
+/*
 @media(min-width: 1024px) {
 
     .pb-60px {
     padding-bottom: 65px;
  }
 
-}
+}*/
