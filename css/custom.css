@@ -109,6 +109,11 @@
     color: #fff;
 }
 
+.mb-30 {
+    margin-bottom: 40px !important;
+}
+
+
 
 /*.col-cus li {
     font-size: 15px;
@@ -118,8 +123,7 @@
 color: #fff !important;
 
 }*/
-
-/*Media quaries*/
+ /*Media quaries*/
 
 @media(min-width: 1024px) and (max-width: 1440px) {
 	
