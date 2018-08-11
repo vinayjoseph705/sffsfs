@@ -166,6 +166,10 @@ color: #fff !important;
 
 
 }
+
+.joinn input {
+    background-color: #d4cfcf !important;
+}
 /*
 @media(min-width: 1024px) {
 

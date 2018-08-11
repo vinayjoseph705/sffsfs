@@ -1939,6 +1939,10 @@ button.search-button:hover,
     transform: translateY(-50%);
   }
 
+  .joinn {
+    background-color: #d4cfcf !important;
+}
+
 .media-holder.style-2{
   border-bottom: 4px solid #bf0d3e;
 }
