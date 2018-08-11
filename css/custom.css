@@ -174,3 +174,51 @@ color: #fff !important;
  }
 
 }*/
+
+/*Media quaries mobile new*/
+
+.responsive-nav-button:before {
+     
+    color: #333;
+}
+
+@media only screen and (max-width: 767px) {
+    
+    .logo img {
+        width: 80px !important;
+    }
+
+   
+    .responsive-nav-button {
+        position: absolute;
+        top: 20px;
+        right: 10px;
+
+    }
+
+    .phone  {
+        display: inline-block;
+    }
+
+    .sm-center {
+        text-align: center;
+    }
+
+    .btn-mob {
+        position: absolute;
+    top: 13%;
+    left: 0%;
+    padding: 10px;
+    font-size: 14px;
+    }
+
+ 
+.mt-100 {
+    margin-top: 60px;
+}
+
+.mb-70 {
+    padding-bottom: 20px;
+}
+
+}
