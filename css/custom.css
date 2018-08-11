@@ -268,3 +268,14 @@ color: #fff !important;
     }
 
 }
+
+@media only screen and (max-width: 375px) {
+    .secondary-t {
+        display: none;
+    }
+
+    .p-mob {
+         font-size: 30px;
+    }
+    
+}
