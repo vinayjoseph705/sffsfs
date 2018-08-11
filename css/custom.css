@@ -201,7 +201,7 @@ color: #fff !important;
     }
 
     .sm-center {
-        text-align: center;
+        text-align: right;
     }
 
     .btn-mob {
@@ -228,7 +228,7 @@ color: #fff !important;
  .res-text {
    position: relative;
     bottom: 67px;
-    font-size: 43px;
+    font-size: 40px;
  } 
 
  .text-sm {
@@ -240,5 +240,31 @@ color: #fff !important;
     border-radius: 25px;
     font-weight: bold;
  }
+
+ .media-holder {
+    background-position: -930px;
+ }
+
+ .logo-wrap {
+    margin-bottom: 0 !important;
+ }
+
+ .media-inner-span {
+    font-size: 40px;
+    line-height: 42px;
+ }
+
+ .flag-i  {
+    display: none;
+ }
+
+ .p-mob {
+    padding-top: 400px;
+ }
+
+ .media-inner span {
+     
+    line-height: 56px;
+    }
 
 }
