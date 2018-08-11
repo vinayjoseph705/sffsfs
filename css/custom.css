@@ -221,4 +221,24 @@ color: #fff !important;
     padding-bottom: 20px;
 }
 
+.page-section.with-bg-img{
+    background-position: -137px;
+  }
+
+ .res-text {
+   position: relative;
+    bottom: 67px;
+    font-size: 43px;
+ } 
+
+ .text-sm {
+        color: #333333;
+    background-color: #fff;
+    opacity: 0.5;
+    position: relative;
+    top: 100px;
+    border-radius: 25px;
+    font-weight: bold;
+ }
+
 }
