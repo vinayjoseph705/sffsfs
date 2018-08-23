@@ -113,6 +113,11 @@
     margin-bottom: 40px !important;
 }
 
+.main-navigation > ul > li {
+    padding: 0px 10px;
+    font-size: 14px;
+}
+
 
 
 /*.col-cus li {
