@@ -9015,7 +9015,13 @@ button.search-button:hover,
   color: #d2d2d2;
 }
 
+ .styles-activity {
+  margin-top: 10px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 25px;
+ }
 
-.mt-top-20 {
-    margin-top: 20px;
-}
+ .fs-siz-20 {
+  font-size: 18px;
+ }
