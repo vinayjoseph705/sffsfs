@@ -2562,7 +2562,8 @@ button.search-button:hover,
   }
 
   .btn-big{
-    padding: 13px 30px;
+    width: 120px;
+    padding: 3px;
     font-size: 16px;
     letter-spacing: 1.2px;
   }
