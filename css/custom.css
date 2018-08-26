@@ -221,6 +221,9 @@ color: #fff !important;
     padding: 10px;
     font-size: 14px;
     }
+    .goog-te-gadget-icon {
+        display: none;
+    }
 
  
 .mt-100 {
