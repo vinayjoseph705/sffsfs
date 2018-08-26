@@ -9025,3 +9025,7 @@ button.search-button:hover,
  .fs-siz-20 {
   font-size: 18px;
  }
+
+ .goog-te-gadget-icon {
+  display: none;
+ }
